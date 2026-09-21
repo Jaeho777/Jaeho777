@@ -5,7 +5,6 @@ AI·데이터·서비스 기획자, 개발자입니다.
 한동대학교에서 AI융합과 창업을 공부하며, 수요예측·SCM·학습 플랫폼·ERP·프런트엔드 프로젝트를 진행하고 있습니다. 문제를 구조화하고, 사용자가 이해할 수 있는 화면과 운영 가능한 시스템으로 구현하는 일을 좋아합니다.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Jaeho777-181717?logo=github&logoColor=white)](https://github.com/Jaeho777)
-[![VICABC LMS](https://img.shields.io/badge/Live-VICABC%20LMS-2563eb?logo=googlechrome&logoColor=white)](https://www.vicabc.kr/lms/)
 
 ## 지금 집중하는 것
 

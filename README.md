@@ -6,7 +6,6 @@ AI·데이터·서비스 기획자, 개발자입니다.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Jaeho777-181717?logo=github&logoColor=white)](https://github.com/Jaeho777)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Notion-000000?logo=notion&logoColor=white)](https://www.notion.so/)
-[![VICABC LMS](https://img.shields.io/badge/Live-VICABC%20LMS-2563eb?logo=googlechrome&logoColor=white)](https://www.vicabc.kr/lms/)
 
 ## 지금 집중하는 것
 

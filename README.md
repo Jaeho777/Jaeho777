@@ -18,13 +18,13 @@ AI·데이터·서비스를 연결해 실제로 쓰이는 제품을 만드는 �
 
 | 프로젝트 | 한 줄 설명 | 기술 |
 | --- | --- | --- |
-| [VIC LMS](https://github.com/Jaeho777/vic-lms) · [시연](https://www.vicabc.kr/lms/) | Moodle 기반 대안학교 학습 포털과 운영 체계 | Moodle · PHP · MariaDB · Docker |
 | [SCM Agent](https://github.com/Jaeho777/scm_agent) | 외부 변수와 자연어 시나리오를 수요예측으로 연결하는 프로토타입 | Python · LLM Agent · Ontology · Knowledge Graph |
 | [DeepFlow Colab](https://github.com/Jaeho777/deepflow-pure-forecast-colab) | 수요예측 모델 비교와 재현 가능한 Colab 실험 | Python · Jupyter · NeuralForecast |
 | [Overnight WTI](https://github.com/Jaeho777/newoil) | WTI 예측 실험의 배치 실행·결과 저장·리뷰 흐름 | Python · PyTorch · Colab |
 | [Oil Forecast](https://github.com/Jaeho777/oil_forecast) | 유가 예측 모델 비교 실험을 정리한 연구 저장소 | Python · PatchTST · iTransformer |
 | [POS Agent](https://github.com/Jaeho777/erp-pos) | 매장 POS 매출을 ERP API로 전송하는 로컬 에이전트 | Python · API · Scheduler |
 | [VICABC](https://github.com/Jaeho777/vicabc) | 어휘·스토리·시험을 연결한 영어 학습 플랫폼 | Python · Flask · SQLite · Gunicorn |
+| [VIC LMS](https://github.com/Jaeho777/vic-lms) · [시연](https://www.vicabc.kr/lms/) | Moodle 기반 대안학교 학습 포털과 운영 체계 | Moodle · PHP · MariaDB · Docker |
 
 ## 경험과 관심 분야
 
@@ -46,9 +46,7 @@ Operations   Docker · MariaDB · SQLite · Nginx · Gunicorn · Git/GitHub
 ## 연구·수상
 
 - DeepFlow: LLM-Augmented Demand Forecasting in Manufacturing — AAAI 2027 제출
-- Historical Analogy-Augmented Retrieval Forecasting for Crude Oil Prices — 심사 중
 - 2025 한동 SW 페스티벌 최우수상·우수상
-- 2024 한동대학교 교내 해커톤 대상
 - 2022 나눔과 기술 경진대회 동상
 
 ## 작업 방식
